@@ -1,6 +1,6 @@
 # Olá, Messias Assunção aqui :)
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no IFAM, **atualmente** focando em **Desenvolvimento de Software** e **Análise de Dados**.
+Estudante de **Análise e Desenvolvimento de Sistemas** no IFAM, atualmente focando em **Desenvolvimento de Software** e **Análise de Dados**.
 
 ## 🛠️ Habilidades
 
