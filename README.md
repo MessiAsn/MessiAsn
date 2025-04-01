@@ -7,7 +7,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no IFAM, atualmente foca
 - **Desenvolvimento Web**: HTML, CSS, JavaScript.
 - **Banco de Dados**: MySQL, PostgreSQL.
 - **Análise de Dados**: Numpy, Pandas, Matplotlib.
-- **Front-end**: HTML, CSS, React.
 - **Back-end - API's REST**: Python (FastAPI), Java (Spring Boot).
 - **Controle de Versão**: Git.
 
