@@ -2,14 +2,6 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFAM, atualmente focando em **Desenvolvimento de Software** e **Análise de Dados**.
 
-## 🛠️ Habilidades
-
-- **Desenvolvimento Web**: HTML, CSS, JavaScript.
-- **Banco de Dados**: MySQL, PostgreSQL.
-- **Análise de Dados**: Numpy, Pandas, Matplotlib.
-- **Back-end - API's REST**: Python (FastAPI), Java (Spring Boot).
-- **Controle de Versão**: Git.
-
 📫 **Contato**: 
 - Linktree: [linktr.ee/messiasassuncao](https://linktr.ee/messiasassuncao).
 - Email: [messiasassuncao1104@gmail.com](mailto:messiasassuncao1104@gmail.com)  
